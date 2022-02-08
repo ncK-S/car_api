@@ -1,0 +1,44 @@
+.nav1 {
+    display: flex;
+    flex-direction: column;
+    height: 150px;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.nav1 ul {
+    display: flex;
+    list-style: none;
+    margin-right: 30px;
+}
+
+.nav1 li {
+    font-size: 20px;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+/* about section */
+.about-section {
+    height: 400px;
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    margin: auto;
+    margin-top: 25px;
+}
+
+.about-section p {
+    font-size: 20px;
+}
+
+/* mid content */
+.mid-content  {
+    display: flex;
+}
+
+.mid-content img {
+    margin: auto;
+}
